@@ -12,7 +12,7 @@
   <a href="https://github.com/DGXeon"><img title="Author" src="https://img.shields.io/badge/Author-Xeon-blue.svg?style=for-the-badge&logo=github" /></a>
 </p>
 <p align="center">
-<a href="#"><img title="Xeon" src="https://img.shields.io/static/v1?label=WHATSAPP&message=Automated-Bot&color=blue"></a>
+<a href="#"><img title="MABOSS" src="https://img.shields.io/static/v1?label=WHATSAPP&message=Automated-Bot&color=blue"></a>
 </p>
 
 
@@ -20,7 +20,7 @@
 Had 5+ stars and 90+ forks, please dont forget to give star before forking.🙏🙇🏼‍♂️Thank you!!
 
 ## Deploy
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DGXeon/DogeBot/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MABOSSwin/DogeBot/)
 
 # Requirements
 * [Node.js](https://nodejs.org/en/)
@@ -85,4 +85,4 @@ My Whatsapp Group👇
 
 # Thanks To
 * [`Baileys`](https://github.com/adiwajshing/Baileys)
-* [`Xeon`](https://github.com/DGXeon)
+* [`Xeon`](https://github.com/MABOSSwin)
